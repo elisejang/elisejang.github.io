@@ -234,7 +234,7 @@
   border-radius: 4px;
   background: #e6e6fa;
   color: #663399;
-  margin: 0 auto;
+  margin: 20px auto;
   /* margin centered the whole button */
 }
 .intro_button:hover {
